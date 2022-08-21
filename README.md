@@ -16,7 +16,7 @@ test.csv: 10500 x 14
 The columns provided in the dataset are as follows:
 
 Column	Description
-Property_ID: Represents a unique identification of a property\n
+Property_ID: Represents a unique identification of a property<br>
 Property_Type: Represents the type of the property( Apartment, Bungalow, etc) 
 Property_Area: Represents the area of the property in square feets
 Number_of_Windows:	Represents the number of windows available in the property
