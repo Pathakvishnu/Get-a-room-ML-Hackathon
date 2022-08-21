@@ -17,18 +17,18 @@ The columns provided in the dataset are as follows:
 
 Column	Description
 Property_ID: Represents a unique identification of a property<br>
-Property_Type: Represents the type of the property( Apartment, Bungalow, etc) 
-Property_Area: Represents the area of the property in square feets
-Number_of_Windows:	Represents the number of windows available in the property
-Number_of_Doors:	Represents the number of doors available in the property
-Furnishing:	Represents the furnishing type ( Fully Furnished, Semi Furnished, or Unfurnished )
-Frequency_of_Powercuts:	Represents the average number of power cuts per week
-Power_Backup:	Represents the availability of power backup
-Water_Supply:	Represents the availability of water supply ( All time, Once in a day - Morning, Once in a day - Evening, and Once in two days) 
-Traffic_Density_Score:	Represents the density of traffic on a scale of  1 to  10
-Crime_Rate:	Represents the crime rate in the neighborhood ( Well below average, Slightly below average, Slightly above average, and  Well above average )
-Dust_and_Noise:	Represents the quantity of dust and noise in the neighborhood ( High, Medium, Low )
-Air_Quality_Index:	Represents the Air Quality Index of the neighborhood
-Neighborhood_Review:	Represents the average ratings given to the neighborhood by the people 
-Habitability_score:	Represents the habitability score of the property
+Property_Type: Represents the type of the property( Apartment, Bungalow, etc) <br>
+Property_Area: Represents the area of the property in square feets<br>
+Number_of_Windows:	Represents the number of windows available in the property<br>
+Number_of_Doors:	Represents the number of doors available in the property<br>
+Furnishing:	Represents the furnishing type ( Fully Furnished, Semi Furnished, or Unfurnished )<br>
+Frequency_of_Powercuts:	Represents the average number of power cuts per week<br>
+Power_Backup:	Represents the availability of power backup<br>
+Water_Supply:	Represents the availability of water supply ( All time, Once in a day - Morning, Once in a day - Evening, and Once in two days)<br> 
+Traffic_Density_Score:	Represents the density of traffic on a scale of  1 to  10<br>
+Crime_Rate:	Represents the crime rate in the neighborhood ( Well below average, Slightly below average, Slightly above average, and  Well above average )<br>
+Dust_and_Noise:	Represents the quantity of dust and noise in the neighborhood ( High, Medium, Low )<br>
+Air_Quality_Index:	Represents the Air Quality Index of the neighborhood<br>
+Neighborhood_Review:	Represents the average ratings given to the neighborhood by the people <br>
+Habitability_score:	Represents the habitability score of the property<br>
 
